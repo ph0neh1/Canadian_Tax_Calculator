@@ -17,5 +17,5 @@ Allows you to calculate Tax in Canada
 2. Run `calculator.py` via Python
 
 ## Credits
-Original author: cr.ghost (aka ph0neh1)
-API : jpmurrary (https://github.com/jpmurray/)
+1. Original author: cr.ghost (aka ph0neh1)
+2. API : jpmurrary (https://github.com/jpmurray/)
