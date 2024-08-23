@@ -1,6 +1,5 @@
-# API is restricted to 60 request per hour
-# Only calculates taxes in Canada
-# Works!
+# API is restricted to 60 request per hour.
+# Only calculates GST, PST, and HST for Canada.
 
 import os
 import requests
@@ -21,9 +20,9 @@ class TextColor:
 GST = 0
 PST = 0
 HST = 0
-PROVINCE = "the KrustyKrab"
-TOTALBT = 0 #Before Tax
-TOTALAT = 0 #After Tax
+PROVINCE = "The KrustyKrab"
+TOTALBT = 0
+TOTALAT = 0
 
 def FetchRates(province):
      global GST, PST, HST, PROVINCE
