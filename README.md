@@ -1,7 +1,7 @@
 # Canadian Tax Calculator
 
 ## Introduction
-Allows you to calculate Tax in Canada
+Calculates GST or PST in Canada
 
 ## Setup
 1. Download latest release of Canadian_Tax_Calculator
